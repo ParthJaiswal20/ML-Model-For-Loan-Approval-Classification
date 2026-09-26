@@ -1,0 +1,9 @@
+{
+    "name":"parth jaiswal",
+    "isStudent":"true",
+    "address":{
+        "city":"vns",
+        "country":"india"
+    },
+    "subjects":["AI,ML,ROBOTICS"]
+}
